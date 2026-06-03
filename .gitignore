@@ -1,0 +1,11 @@
+# Firebase files
+.firebase/
+firebase-debug.log
+*.log
+
+# Supabase files
+.supabase/
+
+# OS files
+.DS_Store
+Thumbs.db
